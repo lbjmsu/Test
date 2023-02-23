@@ -1,0 +1,17 @@
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\bin\Debug\net6.0-windows\Exam1ProgrammingQuestion.exe
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\bin\Debug\net6.0-windows\Exam1ProgrammingQuestion.deps.json
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\bin\Debug\net6.0-windows\Exam1ProgrammingQuestion.runtimeconfig.json
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\bin\Debug\net6.0-windows\Exam1ProgrammingQuestion.dll
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\bin\Debug\net6.0-windows\Exam1ProgrammingQuestion.pdb
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\obj\Debug\net6.0-windows\Exam1ProgrammingQuestion.csproj.AssemblyReference.cache
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\obj\Debug\net6.0-windows\Exam1ProgrammingQuestion.mainForm.resources
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\obj\Debug\net6.0-windows\Exam1ProgrammingQuestion.csproj.GenerateResource.cache
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\obj\Debug\net6.0-windows\Exam1ProgrammingQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\obj\Debug\net6.0-windows\Exam1ProgrammingQuestion.AssemblyInfoInputs.cache
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\obj\Debug\net6.0-windows\Exam1ProgrammingQuestion.AssemblyInfo.cs
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\obj\Debug\net6.0-windows\Exam1ProgrammingQuestion.csproj.CoreCompileInputs.cache
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\obj\Debug\net6.0-windows\Exam1ProgrammingQuestion.dll
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\obj\Debug\net6.0-windows\refint\Exam1ProgrammingQuestion.dll
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\obj\Debug\net6.0-windows\Exam1ProgrammingQuestion.pdb
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\obj\Debug\net6.0-windows\Exam1ProgrammingQuestion.genruntimeconfig.cache
+C:\Users\farti\Desktop\CS 385\Program Source\Exam1ProgrammingQuestion\Exam1ProgrammingQuestion\obj\Debug\net6.0-windows\ref\Exam1ProgrammingQuestion.dll

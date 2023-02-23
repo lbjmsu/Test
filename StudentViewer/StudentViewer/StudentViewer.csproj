@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Person">
+      <HintPath>..\..\Person\Person\bin\Debug\Person.dll</HintPath>
+    </Reference>
+    <Reference Include="Student">
+      <HintPath>..\..\Student\Student\bin\Debug\Student.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

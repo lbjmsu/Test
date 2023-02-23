@@ -1,0 +1,6 @@
+C:\Users\farti\Desktop\CS 385\Program Source\Person\Person\obj\Debug\PersonNamespace.csproj.AssemblyReference.cache
+C:\Users\farti\Desktop\CS 385\Program Source\Person\Person\obj\Debug\PersonNamespace.csproj.CoreCompileInputs.cache
+C:\Users\farti\Desktop\CS 385\Program Source\Person\Person\obj\Debug\Person.dll
+C:\Users\farti\Desktop\CS 385\Program Source\Person\Person\obj\Debug\Person.pdb
+C:\Users\farti\Desktop\CS 385\Program Source\Person\Person\bin\Debug\Person.dll
+C:\Users\farti\Desktop\CS 385\Program Source\Person\Person\bin\Debug\Person.pdb

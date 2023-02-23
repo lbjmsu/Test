@@ -1,0 +1,9 @@
+C:\Users\farti\Desktop\CS 385\Program Source\Student\Student\bin\Debug\Student.dll
+C:\Users\farti\Desktop\CS 385\Program Source\Student\Student\bin\Debug\Student.pdb
+C:\Users\farti\Desktop\CS 385\Program Source\Student\Student\bin\Debug\Person.dll
+C:\Users\farti\Desktop\CS 385\Program Source\Student\Student\bin\Debug\Person.pdb
+C:\Users\farti\Desktop\CS 385\Program Source\Student\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+C:\Users\farti\Desktop\CS 385\Program Source\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+C:\Users\farti\Desktop\CS 385\Program Source\Student\Student\obj\Debug\Student.csproj.CopyComplete
+C:\Users\farti\Desktop\CS 385\Program Source\Student\Student\obj\Debug\Student.dll
+C:\Users\farti\Desktop\CS 385\Program Source\Student\Student\obj\Debug\Student.pdb

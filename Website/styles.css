@@ -1,0 +1,19 @@
+body {
+	background-color: Gainsboro;
+}
+
+.Title {
+	font-size: 32px;
+	font-family: Arial, sansserif;
+	text-align: center;
+}
+
+h2 {
+	font-size: 3px;
+}
+
+button {
+	text-align: center;
+	font-size: 50px;
+	margin: 10px 2px;
+}
